@@ -4,5 +4,11 @@
     <string name="app_name">Android4EarthQuake</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="quake_feed">http://earthquake.usgs.gov/eqcenter/catalogs/1day-M2.5.xml</string>
+    <string name="menu_update">Refresh Earthquakes</string>
+    <string name="auto_update_prompt">Auto Update?</string>
+    <string name="update_freq_prompt">Update Frequery</string>
+    <string name="min_quake_mag_propmt">Minimum Quake Magnitube</string>
+    <string name="menu_preferences">Preferences</string>
 
 </resources>

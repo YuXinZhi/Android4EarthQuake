@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="update_freq_options">
+        <item>Every Minute</item>
+        <item>5 Minutes</item>
+        <item>10 Minutes</item>
+    </string-array>
+    <string-array name="magnitube">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="magnitube_options">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="update_freq_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+
+</resources>

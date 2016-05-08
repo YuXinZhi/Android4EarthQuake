@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry>
+
+    <id>
+urn:earthquake-usgs-gov:announcement-deprecated
+    </id>
+
+    <title>
+Data Feed Deprecated
+    </title>
+
+    <updated>
+2013-08-23T10:47:12Z
+    </updated>
+
+    <link
+        href="http://earthquake.usgs.gov/earthquakes/catalogs/"
+        rel="alternate"
+        type="text/html" />
+
+    <summary>
+    </summary>
+
+</entry>
